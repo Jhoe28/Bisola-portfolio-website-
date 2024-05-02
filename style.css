@@ -108,7 +108,12 @@ a{
 #space{
     padding: 10px;
     font-size: 30px;
+    
 }
 hr{
     color: goldenrod;
+}
+#sp{
+    color: goldenrod;
+    font-size: 30px;
 }
