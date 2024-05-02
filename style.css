@@ -65,7 +65,7 @@ nav{
 }
 #black{
     background-color: black;
-    height: 730px;
+    height: 950px;
 }
 .list{
     margin: 30px;
@@ -76,14 +76,15 @@ nav{
     float: right;
     color: goldenrod;
     padding-right: 70px;
+    font-size: 30px;
 }
 .price{
     text-align: center;
     margin: 20px;
-    
+    font-size: 30px;
 }
 .tf{
-    font-size: 30;
+    font-size: 30px;
     padding-left: 20px;
     margin: 20px;
     
@@ -115,5 +116,5 @@ hr{
 }
 #sp{
     color: goldenrod;
-    font-size: 30px;
+    font-size: 20px;
 }
